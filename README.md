@@ -15,6 +15,10 @@ isaekalves@gmail.com
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaekalves&repo=devweekgit.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **isaekalves/IsaEKAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
